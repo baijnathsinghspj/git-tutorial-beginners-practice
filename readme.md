@@ -1,11 +1,11 @@
-# this is the best repo  out there
+# This is the best repo  out there
 
-this is readme file
+This is readme file
 
-the best ways are:
-- eat
-- sleep
-- code
-- repeat
+The best ways are:
+- Eat
+- Sleep
+- Code
+  Repeat
 
 Thank You!
